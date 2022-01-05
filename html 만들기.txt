@@ -1,0 +1,10 @@
+1. menu bar 보이기 
+alt+f,e,v,s,i,p,h 누르면 메뉴바가 열리고
+여기서 view toggle menu bar 하면됨
+
+2. 목차 완성, 부모자식 태그
+<ul> unordered list
+<ol> ordered list
+	<li> list
+3. 같은 것 반복
+ctrl 키 누른상태에서 계속 반복클릭
